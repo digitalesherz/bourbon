@@ -1,0 +1,6 @@
+coffee_script:
+  enabled: true
+ruby:
+  enabled: true
+scss:
+  enabled: true
